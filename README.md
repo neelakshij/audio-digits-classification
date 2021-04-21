@@ -3,7 +3,7 @@
 ##### The suite of code given here are for classifying audio signal from the free spoken digit dataset ([FSDD](https://github.com/Jakobovski/free-spoken-digit-dataset)) using random forest classifier algorithm.
 ---
 
-##### This work is posted on [Medium](https://medium.com/@neelakshij/6ab4df23e072)
+##### This work is posted on [Medium](https://neelakshij.medium.com/audio-digits-classification-6ab4df23e072)
 ***
 
 
