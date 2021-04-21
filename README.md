@@ -32,13 +32,16 @@ The FSDD is an open dataset. It contains spoken digits 0 to 9 in English, with 5
 
 * Extract features: 
     
-      MFCCs and their first and second order derivatives are extracted using librosa package. Statistical measures are computed using numpy and scipy libraries.
-      extract_features_n_classify.ipynb has scripts to extract and normalize features.
+   MFCCs and their first and second order derivatives are extracted using librosa package. Statistical measures are computed using numpy and scipy libraries.
+           
+       extract_features_n_classify.ipynb has scripts to extract and normalize features.
 
 + Classification: 
        
-      Random Forest classifier is used. Obtained 97% accuracy with 10-fold cross-validation.
+    Random Forest classifier is used. Obtained 97% accuracy with 10-fold cross-validation.
+      
       extract_features_n_classify.ipynb has script to classify audio dataset based on extracted features.
+  
   
 
 **Summary** 
